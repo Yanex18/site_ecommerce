@@ -1,0 +1,42 @@
+.nav .a {
+  color : blue;
+}
+
+.presentation {
+  background: linear-gradient(to right, #165DFB, #2E37C5);
+  color: #ffffff;
+  padding: 110px;
+}
+
+.presentation p{ 
+  font-family: "Alef", sans-serif;
+  font-size: 18px;
+  width: 100%;
+  margin-left: 7%;
+}
+
+.composantpop{
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.presentation h1 {
+  font: bold 24px "Liberation Sans", sans-serif;
+  font-size: 48px;
+  margin-bottom: 20px; 
+  margin-left: 7%;
+}
+
+.composantpop h2{
+  font: bold 24px "Liberation Sans", sans-serif;
+  font-size: 32px;
+  text-align: center;
+  width: 100%;
+}
+
+.composantpop p{
+  font-family: "Alef", sans-serif;
+  font-size: 18px;
+  text-align: center;
+  width: 100%;
+  color: rgb(95, 95, 95);
+}
